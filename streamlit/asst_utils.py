@@ -3,10 +3,10 @@
 # Streamlit 1.35.0
 # OpenAI 1.30.5
 
-pip install openai
+pip install OpenAI
 
 import streamlit as st
-from openai import OpenAI
+import OpenAI
 import time
 
 class Data_Assistant:
