@@ -3,8 +3,9 @@
 # Streamlit 1.35.0
 # OpenAI 1.30.5
 
-import streamlit as st
 pip install openai
+
+import streamlit as st
 from openai import OpenAI
 import time
 
